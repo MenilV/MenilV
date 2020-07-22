@@ -4,7 +4,6 @@
 
 Hi there 👋. My name is Menil and I'm a software engineer with love and passion for all things Android, working at 🍒 [Tinybeans](http://tinybeans.com/)
 
-___
 
 # Some of my work:
 
@@ -16,7 +15,6 @@ ___
 |**TheTag**| TheTag - the home of true loyalty! No more "money-based" loyalty programs - now only true loyalty counts! TheTag provides our Partners with an awesome "toolkit" that enables fan activation based on real loyalty. Whether you're a club, sports team, music band, brand or organization, get ready to find out who your most loyal fans are! |<a href="https://play.google.com/store/apps/details?id=com.clusolveapps.thetag"><img src="https://user-images.githubusercontent.com/3142641/87430590-b8fd1d80-c5e5-11ea-98e2-f27dab341aed.png" height="25px"/></a>     |   <a href="https://www.app.thetag.app/"><img src="https://user-images.githubusercontent.com/3142641/87459767-1dcb6e80-c60c-11ea-8de4-abf07e4b99f9.png"></a> |
 |**Project: Adam**| All business cards in one. The last business card you’ll ever need to carry with you. Adam is designed to help you manage all business cards, stored in one place, making it convenient for you. |<a href="https://play.google.com/store/apps/details?id=com.menilv.adam"><img src="https://user-images.githubusercontent.com/3142641/87430590-b8fd1d80-c5e5-11ea-98e2-f27dab341aed.png" height="25px"/></a>     |   <a href="https://www.projectadam.co/"><img src="https://user-images.githubusercontent.com/3142641/87460128-a77b3c00-c60c-11ea-9ab6-1aa16b8f13cd.png"></a> |
 
-___
 
 # Get in touch:
 🐦 Twitter: https://twitter.com/MenilVukovic <br>
